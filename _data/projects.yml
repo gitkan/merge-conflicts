@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# Holo Lens
+- project: Holo Lens
+  role: Developer
+  duration: 2019 &mdash; 2020
+  url: "https://www.microsoft.com/ja-jp/hololens"
+  description: An application for firstline workers at a car assemlbly plant.
